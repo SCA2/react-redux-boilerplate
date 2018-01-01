@@ -1,0 +1,8 @@
+node_modules/
+public/dist/
+
+.env.test
+.env.development
+
+boilerplate.sublime-project
+boilerplate.sublime-workspace
